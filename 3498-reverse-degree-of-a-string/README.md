@@ -117,4 +117,4 @@
 
 ---
 
-**My Solution:** [3498-Reverse-Degree-of-a-String.py](./3498-Reverse-Degree-of-a-String.py)
+**My Solution:** [3498-Reverse-Degree-of-a-String.js](./3498-Reverse-Degree-of-a-String.js)
